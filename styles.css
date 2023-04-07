@@ -52,7 +52,7 @@ a:visited{
     font-family: "Brush Script MT",Cursive;
     font-size: 25px;
     width: 1500px;
-    position: center;
+    position: flex;
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
